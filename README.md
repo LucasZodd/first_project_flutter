@@ -1,16 +1,17 @@
 # first_project_flutter
 
-A new Flutter project.
+A new Flutter project Calculate.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Install packages
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Check dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter pub outdated
+
+# Test if the project runs correctly
+
+flutter run
